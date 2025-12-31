@@ -1,6 +1,4 @@
 # Londrina Sexy
-
-## Links
 https://www.londrinasexy.com.br
 
 ## Descrição
